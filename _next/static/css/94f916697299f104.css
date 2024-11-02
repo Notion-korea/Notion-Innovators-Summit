@@ -1,1 +1,1200 @@
-.MakeWithNotionEventCountdown_countdown__u1Rza{font-size:clamp(100px,10vmax,160px);font-weight:400;display:grid;grid-template-columns:repeat(4,max-content);justify-items:start;align-content:start;align-items:start;width:auto;padding-bottom:128px;height:auto;margin:0 auto 160px;gap:.25ch}@media(min-width:1080px){.MakeWithNotionEventCountdown_countdown__u1Rza{gap:.375ch;grid-template-columns:repeat(8,max-content)}}.MakeWithNotionEventCountdown_delimiter__yqfs1{position:relative;min-height:85%;flex-shrink:0;display:flex;flex-direction:column;align-items:center;justify-content:center}.MakeWithNotionEventCountdown_shape__VCQ_U{position:relative;aspect-ratio:1/1;width:1ch;-webkit-mask-image:var(--delimiter-shape);mask-image:var(--delimiter-shape);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-position:center center;mask-position:center center;transform:rotate(var(--delimiter-shape-rotation)) translateZ(0);backface-visibility:visible;transform-origin:center center;will-change:transform;z-index:1}:nth-child(1 of .MakeWithNotionEventCountdown_delimiter__yqfs1){margin-inline:-.0625ch;order:3}:nth-child(1 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{aspect-ratio:96/83;transform-origin:50% 66.666%;margin-top:-25%}:nth-child(2 of .MakeWithNotionEventCountdown_delimiter__yqfs1){order:1}:nth-child(2 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{width:.75ch}:nth-child(3 of .MakeWithNotionEventCountdown_delimiter__yqfs1){order:5;margin-inline:-.125ch}:nth-child(3 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{aspect-ratio:96/84}:nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1){order:7;margin-inline:-.125ch}:nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{aspect-ratio:96/56}@media(min-width:1080px){:nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1){display:none}}.MakeWithNotionEventCountdown_flap__ImlGU{display:flex;flex-direction:column;height:100%;align-items:flex-start;justify-content:flex-start;gap:0}:nth-child(1 of .MakeWithNotionEventCountdown_flap__ImlGU){order:2;margin-right:.5ch}@media(min-width:1080px){:nth-child(1 of .MakeWithNotionEventCountdown_flap__ImlGU){margin-right:unset}}:nth-child(2 of .MakeWithNotionEventCountdown_flap__ImlGU){order:4}:nth-child(3 of .MakeWithNotionEventCountdown_flap__ImlGU){order:6}:nth-child(4 of .MakeWithNotionEventCountdown_flap__ImlGU){order:8}@media(min-width:1080px){.MakeWithNotionEventCountdown_countdown__u1Rza>.MakeWithNotionEventCountdown_delimiter__yqfs1,.MakeWithNotionEventCountdown_countdown__u1Rza>.MakeWithNotionEventCountdown_flap__ImlGU{order:unset}}.MakeWithNotionEventCountdown_numeral__oCM_R{line-height:1em;letter-spacing:-.08em;text-indent:-.1ch}.MakeWithNotionEventCountdown_descriptor__qCZWD{font:var(--typography-sans-300-regular-font-weight) var(--typography-sans-300-regular-font-size)/var(--typography-sans-300-regular-line-height) var(--typography-sans-300-regular-font-family);font-variation-settings:"wght" var(--typography-sans-300-regular-font-weight-variable);letter-spacing:var(--typography-sans-300-regular-letter-spacing)}.MakeWithNotionAnimatedText_visuallyHidden__UxnEB{clip:rect(0 0 0 0);clip-path:inset(50%);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}.MakeWithNotionAnimatedText_text__IxRVW{font-family:var(--font-family-sans)}.MakeWithNotionAnimatedText_mwnLetter__v6HOn{display:inline-block;position:relative}.MakeWithNotionAnimatedText_withBoundingBox__JeJC_{outline:1px solid #00000014;outline-style:dashed}.MakeWithNotionAnimatedText_absolute__awt_z{position:absolute;height:100%}.MakeWithNotionAnimatedText_debug__Fzp63{fill:red;mix-blend-mode:hard-light}.MakeWithNotionAnimatedText_red__ga1Lf{fill:#f64932}.MakeWithNotionAnimatedText_blue__pNdT0{fill:var(--mwn-blue)}.MakeWithNotionAnimatedText_yellow__EEdvk{fill:#ffb110}.MakeWithNotionAnimatedText_black__eeAj7{fill:#000}.MakeWithNotionFooter_visuallyHidden__D1rl6{clip:rect(0 0 0 0);clip-path:inset(50%);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}.MakeWithNotionFooter_container__j6X3z{display:flex;flex-flow:column wrap;justify-content:space-between;width:100%;line-height:1em;margin:42px auto 0;gap:16px;flex-direction:row;align-items:flex-end;padding:32px 0}.MakeWithNotionFooter_container__j6X3z *{margin:0;padding:0;line-height:1em}.MakeWithNotionFooter_container__j6X3z img{margin-left:auto}.MakeWithNotionFooter_legalInfo__Yq4Dc{display:flex;flex-flow:column wrap;justify-content:flex-start;line-height:1em;column-gap:16px;row-gap:16px;list-style-type:none;padding:0;margin:0}@media(min-width:1280px){.MakeWithNotionFooter_legalInfo__Yq4Dc{align-items:flex-end;flex-direction:row}}.MakeWithNotionFooter_legalInfo__Yq4Dc *{margin:0;padding:0;line-height:1em;color:inherit}.MakeWithNotionFooter_legalInfo__Yq4Dc>li *{font-size:15px}.MakeWithNotionFooter_logo__ssOmt{display:flex;height:36px}.MakeWithNotionFooter_footerImage__R9t_T{width:200px;height:auto}@media(min-width:1080px){.MakeWithNotionFooter_footerImage__R9t_T{width:300px}}.MakeWithNotionLayout_container__MloTq{--mwn-blue:#097fe8;--color-text-secondary:#787774;--typography-sans-300-semibold-font-weight-variable:400;--typography-sans-400-semibold-font-weight-variable:400;--typography-sans-500-semibold-font-weight-variable:400;--typography-sans-600-semibold-font-weight-variable:400;--typography-sans-700-semibold-font-weight-variable:400;--typography-sans-800-semibold-font-weight-variable:400;--typography-sans-900-semibold-font-weight-variable:400;width:100%;max-width:1920px;margin:auto;padding:0 24px}.MakeWithNotionHomeAgenda_agenda__U9VQ3{--agenda-padding:10px 0 54px;--agenda-row-gap:15px;--agenda-header-column:span 12;--agenda-header-margin-bottom:40px;--agenda-shape-column:span 12;--agenda-image-margin:0 -60px 0 auto;--agenda-image-rotation:rotate(269deg);--agenda-sections-gap:36px;--agenda-sections-flex-direction:column;--agenda-sections-grid-column:span 12;padding:var(--agenda-padding);row-gap:var(--agenda-row-gap)}@media(min-width:840px){.MakeWithNotionHomeAgenda_agenda__U9VQ3{--agenda-padding:105px 0 54px;--agenda-row-gap:54px;--agenda-header-column:2/span 6;--agenda-header-margin-bottom:0;--agenda-shape-column:8/span 6;--agenda-sections-grid-column:2/span 10}}@media(min-width:1080px){.MakeWithNotionHomeAgenda_agenda__U9VQ3{--agenda-padding:130px 0 90px;--agenda-header-column:7/span 5;--agenda-shape-column:span 6;--agenda-image-margin:0 auto;--agenda-image-rotation:rotate(0);--agenda-image-width:90%;--agenda-sections-flex-direction:row;--agenda-sections-gap:30px}}.MakeWithNotionHomeAgenda_agendaShape__EOIjY{grid-column:var(--agenda-shape-column)}@media(min-width:840px){.MakeWithNotionHomeAgenda_agendaShape__EOIjY{align-content:center}}.MakeWithNotionHomeAgenda_agendaShape__EOIjY img{display:block;margin:var(--agenda-image-margin);transform:var(--agenda-image-rotation)}@media(min-width:840px){.MakeWithNotionHomeAgenda_agendaShape__EOIjY img{display:block;width:100%;height:auto;object-fit:cover;max-width:600px;width:var(--agenda-image-width)}}.MakeWithNotionHomeAgenda_agendaHeader__87JUy{grid-column:var(--agenda-header-column);margin-bottom:var(--agenda-header-margin-bottom)}@media(min-width:840px){.MakeWithNotionHomeAgenda_agendaHeader__87JUy{order:-1}}@media(min-width:1080px){.MakeWithNotionHomeAgenda_agendaHeader__87JUy{order:revert}}.MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry{margin-top:4px}@media(min-width:840px){.MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry{--typography-sans-200-regular-font-size:18px}}.MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry span{color:var(--mwn-blue);font-weight:448;display:flex;gap:6px}.MakeWithNotionHomeAgenda_agendaSections__GLVJD{--typography-sans-200-regular-font-size:18px;--typography-sans-400-semibold-font-size:22px;--typography-sans-400-semibold-line-height:26px;display:flex;flex-direction:var(--agenda-sections-flex-direction);gap:var(--agenda-sections-gap);grid-column:var(--agenda-sections-grid-column)}@media(min-width:1080px){.MakeWithNotionHomeAgenda_agendaSections__GLVJD{--typography-sans-200-regular-font-size:inherit;--typography-sans-400-semibold-font-size:24px;--typography-sans-400-semibold-line-height:inherit}}.MakeWithNotionHomeAgenda_agendaSection__r438l{display:flex;flex-direction:column;gap:8px}@media(min-width:1080px){.MakeWithNotionHomeAgenda_agendaSection__r438l{width:33%}}.MakeWithNotionHomeAgenda_agendaSectionContent__4nzhJ{color:var(--color-text-secondary)}.MakeWithNotionHomeAttend_attend__7VIVz{--attend-padding:0 0 40px;--attend-row-gap:34px;--attend-shape-column:span 12;--attend-image-margin:0 -24px 0 auto;--attend-header-gap:8px;--attend-header-column:span 12;--attend-sections-gap:36px;--attend-sections-grid-column-end:span 12;--g-grid-gutter:var(--grid-gutter,24px);display:grid;grid-auto-rows:min-content;grid-template-columns:repeat(var(--grid-columns),minmax(1px,1fr));gap:var(--grid-gutter);width:100%;align-items:flex-start;container-type:inline-size;padding:var(--attend-padding);row-gap:var(--attend-row-gap)}.MakeWithNotionHomeAttend_attend__7VIVz>*{grid-column:auto/span 6}@container (max-width: 800px){.MakeWithNotionHomeAttend_attend__7VIVz>*{grid-column:auto/span 12;--g-grid-gutter:var(--grid-sm-gutter)}}@media(min-width:840px){.MakeWithNotionHomeAttend_attend__7VIVz{--attend-padding:90px 0 0px;--attend-shape-column:7/span 6;--attend-header-gap:18px;--attend-header-column:2/span 5;--attend-sections-gap:30px;--attend-sections-grid-column-end:span 5}}@media(min-width:1080px){.MakeWithNotionHomeAttend_attend__7VIVz{--attend-padding:90px 0 180px;--attend-row-gap:54px;--attend-image-margin:0 auto;--attend-sections-grid-column-end:span 4}}.MakeWithNotionHomeAttend_attend__7VIVz .MakeWithNotionHomeAttend_link__SQu41 span{color:var(--mwn-blue);font-weight:448;display:flex;gap:6px}.MakeWithNotionHomeAttend_attendShape__dnQFT{order:-1;grid-column:var(--attend-shape-column)}@media(min-width:840px){.MakeWithNotionHomeAttend_attendShape__dnQFT{order:revert;align-content:center;height:100%}}.MakeWithNotionHomeAttend_attendShape__dnQFT img{display:block;transform:var(--attend-image-rotation);margin:var(--attend-image-margin)}@media(min-width:1080px){.MakeWithNotionHomeAttend_attendShape__dnQFT img{display:block;width:100%;height:auto;object-fit:cover;width:80%;margin-top:-30px}}.MakeWithNotionHomeAttend_attendHeader___bbpk{gap:var(--attend-header-gap);grid-column:var(--attend-header-column)}@media(min-width:840px){.MakeWithNotionHomeAttend_attendHeader___bbpk{display:flex;height:100%;justify-content:center;margin-bottom:20px}}@media(min-width:1080px){.MakeWithNotionHomeAttend_attendHeader___bbpk{margin-bottom:0}}.MakeWithNotionHomeAttend_attendSections__dwFPd{--typography-sans-400-semibold-font-size:23px;--typography-sans-400-semibold-line-height:33px;display:contents}.MakeWithNotionHomeAttend_attendSection__qDqFJ{display:flex;flex-direction:column;gap:4px;grid-column-end:var(--attend-sections-grid-column-end)}@media(min-width:840px){.MakeWithNotionHomeAttend_attendSection__qDqFJ{grid-column-start:2}.MakeWithNotionHomeAttend_attendSection__qDqFJ:nth-child(2){grid-column-start:7}}.MakeWithNotionHomeAttend_attendFooter__VQjO8{grid-column:span 12}.MakeWithNotionHomeAttend_attendFooter__VQjO8 img{display:block;width:100%;height:auto;object-fit:cover;margin:0 -24px 0 auto;width:247px}.MakeWithNotionRegisterCtas_primary__3m99w{display:flex}.MakeWithNotionRegisterCtas_link__UH2ua{color:var(--link-color)}.MakeWithNotionRegisterCtas_link__UH2ua:hover{color:var(--text-color-dark)}.MakeWithNotionHomeSponsors_sponsors__G57qT{--sponsor-section-margin-top:150px;--sponsor-section-margin-bottom:136px;--sponsor-section-gap:55px;--sponsor-section-flex-direction:column;--sponsors-heading-max-width:432px;--sponsor-logos-min-height:81px;--sponsors-logos-max-width:660px;--sponsor-logos-gap:36px;--figma-logo-height:45.6px;--aws-logo-height:40.2px;--default-logo-height:46.3px;--sponsor-logo-width:33%;display:flex;width:100%;max-width:calc(var(--sponsors-heading-max-width) + var(--sponsor-section-gap) + var(--sponsors-logos-max-width));flex-direction:var(--sponsor-section-flex-direction);gap:var(--sponsor-section-gap);margin:var(--sponsor-section-margin-top) auto var(--sponsor-section-margin-bottom);text-align:center}@media(min-width:600px){.MakeWithNotionHomeSponsors_sponsors__G57qT{--sponsor-section-margin-top:182px;--figma-logo-height:68.4px;--aws-logo-height:60.3px;--default-logo-height:69.5px}}@media(min-width:840px){.MakeWithNotionHomeSponsors_sponsors__G57qT{--sponsor-section-margin-bottom:220px;--sponsor-section-gap:38px;--sponsor-logos-gap:62px;--figma-logo-height:78px;--aws-logo-height:69px;--default-logo-height:79px;--sponsor-logos-min-height:139px;--sponsor-logo-width:20%;justify-content:space-between;align-items:center}}.MakeWithNotionHomeSponsors_sponsorLogos__8mdEJ{display:flex;width:100%;flex-wrap:wrap;justify-content:center;place-items:center;row-gap:30px;min-height:var(--sponsor-logos-min-height)}.MakeWithNotionHomeSponsors_sponsorLogos__8mdEJ a{width:var(--sponsor-logo-width)}.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS{width:auto}.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_figma__6cEEV{height:var(--figma-logo-height)}.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_aws__8_TtX{height:var(--aws-logo-height)}.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_notionState__3VfbO,.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_optemization__Ei3es,.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_slack__WVSG4{height:var(--default-logo-height)}.MakeWithNotionHomeFooter_footer__OsCn5{--padding:32px 0;background-size:contain;background-position:100%;background-repeat:no-repeat;display:flex;flex-direction:column;align-items:flex-start;justify-content:center;padding:var(--padding);width:100%;max-width:1920px}.MakeWithNotionHomeFooter_details__TiNql{--first-detail-grid-column:span 12;row-gap:64px}@media(min-width:840px){.MakeWithNotionHomeFooter_details__TiNql{--first-detail-grid-column:2/span 5}}.MakeWithNotionHomeFooter_firstDetail__kUFBr{grid-column:var(--first-detail-grid-column);margin-bottom:24px}.MakeWithNotionHomeFooter_postCard__x1GnR{width:100%;height:100%;flex:1 0 auto;display:flex;flex-direction:column;align-items:flex-start;justify-content:center;background-color:var(--color-base-200);aspect-ratio:1/1;filter:grayscale(1)}@media(min-width:1080px){.MakeWithNotionHomeFooter_postCard__x1GnR{aspect-ratio:700/600}}.MakeWithNotionHomeFooter_postCardImageContainer__XSp9L{display:flex;height:100%;flex-direction:column;justify-content:center;align-content:center;align-items:flex-end}.MakeWithNotionHomeFooter_postCardImage__xeEcs{display:block;width:100%;max-width:585px;height:auto;position:relative;z-index:1;transform:rotate(-1deg) translateZ(1px);box-shadow:0 0 2px #0000000a}@media(min-width:1080px){.MakeWithNotionHomeFooter_postCardImage__xeEcs{transform:rotate(-3deg);margin-right:-64px}}.MakeWithNotionHomeFooter_logo__RaC9M,.MakeWithNotionHomeFooter_postCardImage__xeEcs img{width:100%;height:auto;display:block}.MakeWithNotionHomeFooter_ctas__v9clg{margin-top:24px;display:flex;flex-flow:row wrap;align-items:center;column-gap:16px}.MakeWithNotionHomeFooter_faq__nxA6D{--faq-grid-column:span 12;--faq-gap:30px;--faq-margin-bottom:82px;display:flex;flex-direction:column;grid-column:var(--faq-grid-column);gap:var(--faq-gap);margin:0 auto var(--faq-margin-bottom);max-width:1024px;width:100%}@media(min-width:840px){.MakeWithNotionHomeFooter_faq__nxA6D{--faq-gap:44px;--faq-margin-bottom:90px}}@media(min-width:1080px){.MakeWithNotionHomeFooter_faq__nxA6D{--faq-grid-column:2/12;--faq-margin-bottom:141px}}.MakeWithNotionHomeFooter_faqHeader__OO2GU{--faq-header-flex-direction:column;display:flex;flex-direction:var(--faq-header-flex-direction);align-items:baseline;justify-content:space-between;gap:16px}@media(min-width:840px){.MakeWithNotionHomeFooter_faqHeader__OO2GU{--faq-header-flex-direction:row}}.MakeWithNotionHomeFooter_faqCta__Px_D_ span{color:var(--mwn-blue);font-weight:448;display:flex;gap:6px;align-items:center}.MakeWithNotionHomeFooter_faqCta__Px_D_ span svg{margin-top:2px}.MakeWithNotionHomeSpeakers_root__M7h3p{--speakers-column-count:2;--speakers-row-gap:24px;--speakers-column-gap:20px;--speaker-caption-margin-top:10px;--color-text-secondary:#787774;display:grid;grid-template-columns:repeat(var(--speakers-column-count),minmax(0,1fr));justify-content:space-between;list-style:none;gap:var(--speakers-row-gap) var(--speakers-column-gap);margin:0;padding:0}@media(min-width:840px){.MakeWithNotionHomeSpeakers_root__M7h3p{--speakers-row-gap:45px;--speaker-caption-margin-top:18px}}@media(min-width:1200px){.MakeWithNotionHomeSpeakers_root__M7h3p{--speakers-column-count:4}}@media(min-width:1440px){.MakeWithNotionHomeSpeakers_root__M7h3p{--speaker-caption-margin-top:28px}}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+1){--speaker-image-rotation:-1.85deg;--speaker-scale-adjustment:0.97}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+2){--speaker-image-rotation:1.88deg;--speaker-scale-adjustment:0.969}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+3){--speaker-image-rotation:-0.42deg;--speaker-scale-adjustment:0.993}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+4){--speaker-image-rotation:2.6deg;--speaker-scale-adjustment:0.958}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+5){--speaker-image-rotation:2.6deg;--speaker-scale-adjustment:0.97}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+6){--speaker-image-rotation:-1.85deg;--speaker-scale-adjustment:0.969}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+7){--speaker-image-rotation:1.88deg;--speaker-scale-adjustment:0.969}.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n){--speaker-image-rotation:-0.42deg;--speaker-scale-adjustment:0.958}.MakeWithNotionHomeSpeakers_figure__uqAQq{margin:0;padding:0}.MakeWithNotionHomeSpeakers_image__zTeJi{display:block;width:100%;height:auto;will-change:transform;transform:rotate(var(--speaker-image-rotation,0deg)) scale(var(--speaker-scale-adjustment,1));box-shadow:0 0 2px #0000000a}.MakeWithNotionHomeSpeakers_caption__QVexX{margin-top:var(--speaker-caption-margin-top)}.MakeWithNotionHomeSpeakers_name__sqZpB{font-size:16px;line-height:24px;font-weight:500}@media(min-width:840px){.MakeWithNotionHomeSpeakers_name__sqZpB{font-size:23px;line-height:33px;font-weight:420}}@media(min-width:1440px){.MakeWithNotionHomeSpeakers_name__sqZpB{font:var(--typography-sans-400-regular-font-weight) var(--typography-sans-400-regular-font-size)/var(--typography-sans-400-regular-line-height) var(--typography-sans-400-regular-font-family);font-variation-settings:"wght" var(--typography-sans-400-regular-font-weight-variable);letter-spacing:var(--typography-sans-400-regular-letter-spacing)}}.MakeWithNotionHomeSpeakers_title__7RXNe{font:var(--typography-sans-150-regular-font-weight) var(--typography-sans-150-regular-font-size)/var(--typography-sans-150-regular-line-height) var(--typography-sans-150-regular-font-family);font-variation-settings:"wght" var(--typography-sans-150-regular-font-weight-variable);letter-spacing:var(--typography-sans-150-regular-letter-spacing);color:var(--color-text-secondary)}@media(min-width:1440px){.MakeWithNotionHomeSpeakers_title__7RXNe{font:var(--typography-sans-200-regular-font-weight) var(--typography-sans-200-regular-font-size)/var(--typography-sans-200-regular-line-height) var(--typography-sans-200-regular-font-family);font-variation-settings:"wght" var(--typography-sans-200-regular-font-weight-variable);letter-spacing:var(--typography-sans-200-regular-letter-spacing)}}.MakeWithNotionMobileNavigation_mobileNav__1T3El{min-height:100%;padding:30px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:130px}.MakeWithNotionMobileNavigation_mobileNavLinks__MWckp{display:flex;flex-direction:column;align-items:center;gap:27px;font:var(--typography-sans-300-regular-font-weight) var(--typography-sans-300-regular-font-size)/var(--typography-sans-300-regular-line-height) var(--typography-sans-300-regular-font-family);font-variation-settings:"wght" var(--typography-sans-300-regular-font-weight-variable);letter-spacing:var(--typography-sans-300-regular-letter-spacing)}@media(min-width:600px){.MakeWithNotionMobileNavigation_mobileNavLinks__MWckp{font:var(--typography-sans-400-regular-font-weight) var(--typography-sans-400-regular-font-size)/var(--typography-sans-400-regular-line-height) var(--typography-sans-400-regular-font-family);font-variation-settings:"wght" var(--typography-sans-400-regular-font-weight-variable);letter-spacing:var(--typography-sans-400-regular-letter-spacing)}}.MakeWithNotionMobileNavigation_mobileCtas__YmRKg{display:flex;flex-direction:column;gap:24px}.MakeWithNotionNavigation_navigation__zh8EL{--nav-display:none;--padding:24px;display:contents}.MakeWithNotionNavigation_mobileNavOpen__fyFx6{position:fixed!important;inset:0;max-height:100vh;max-height:100dvh;z-index:var(--z-index-header)}.MakeWithNotionNavigation_mobileNavOpen__fyFx6~*{display:none!important}.MakeWithNotionNavigation_container__aKt4e{--display-desktop-elements:none;--display-mobile-elements:contents;--max-width:1860px;--links-display:none;--mwn-logo-width:171px;display:contents}@media(min-width:1280px){.MakeWithNotionNavigation_container__aKt4e{--mwn-logo-width:300px;--display-desktop-elements:flex;--display-mobile-elements:none;--links-display:flex}}.MakeWithNotionNavigation_stickyNav__0M_Hm{display:flex;position:sticky;top:0;flex-direction:column;align-items:flex-start;justify-content:space-between;width:100%;height:auto;box-sizing:border-box;padding:var(--padding);background-color:var(--color-page);z-index:999;border-bottom:1px solid #0000}.MakeWithNotionNavigation_stickyNav__0M_Hm:before{position:absolute;width:100dvw;background:none;content:"";transform:translateX(-50%);left:50%;z-index:0;top:0;bottom:0;transition:box-shadow .16s ease-in-out;box-shadow:0 3px 9px 0 #0000,0 .7px 1.462px 0 #0000}.MakeWithNotionNavigation_isScrolled__XARxc:before{box-shadow:0 3px 9px 0 #00000008,0 .7px 1.462px 0 #00000003}.MakeWithNotionNavigation_logo__oo2PW{display:flex;flex-direction:column;align-items:flex-start;width:var(--mwn-logo-width)}.MakeWithNotionNavigation_logo__oo2PW img{width:100%;display:block}.MakeWithNotionNavigation_visuallyHidden__qsTts{clip:rect(0 0 0 0);clip-path:inset(50%);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}.MakeWithNotionNavigation_content__aYfTj{position:relative;width:100%;max-width:var(--max-width);margin:0 auto;justify-content:space-between}.MakeWithNotionNavigation_content__aYfTj,.MakeWithNotionNavigation_leftNav__avwo8{display:flex;flex-direction:row;align-items:center}.MakeWithNotionNavigation_menu__eI9OR{display:var(--links-display);flex-direction:row;align-items:flex-start;gap:28px;height:100%;margin:0 60px;color:var(--text-color-medium);font-size:15px;font-weight:500}.MakeWithNotionNavigation_menu__eI9OR .MakeWithNotionNavigation_active__xIT9n{color:var(--text-color-dark)}.MakeWithNotionNavigation_rightNav__WE_6y{display:flex;flex-direction:row}.MakeWithNotionNavigation_ctas__yQd7t{flex-direction:row;align-items:flex-start;align-items:center;margin-left:auto;gap:4px;display:var(--display-desktop-elements)}.MakeWithNotionNavigation_ctas__yQd7t button{--typography-sans-200-regular-font-size:15px}.MakeWithNotionNavigation_ctas__yQd7t p{margin-left:var(--register-cta-margin-left)}.MakeWithNotionNavigation_mobileNavTrigger__ewyzR{display:var(--display-mobile-elements)}.MakeWithNotionNavigation_notionLogo__9dQ6q{margin-left:20px;display:flex}.MakeWithNotionNavigation_subNavCtas__IzPh2{display:flex;flex-flow:row wrap;align-items:flex-start;row-gap:12px;column-gap:16px;max-width:var(--ctas-max-width);margin-top:56px}@media(min-width:1280px){.MakeWithNotionNavigation_subNavCtas__IzPh2{display:none}}.MakeWithNotionNavigation_subNav__03c4G{margin-left:24px;max-width:1860px}@media screen and (min-width:1920px){.MakeWithNotionNavigation_subNav__03c4G{margin:0 auto}}.registrationFormBody_passwordField__DOrxs,.registrationFormDialog_visuallyHidden__cLR8X{clip:rect(0 0 0 0);clip-path:inset(50%);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_stateDialog___CFPV{--state-dialog-max-width:356px}@media(min-width:375px){.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_stateDialog___CFPV{max-width:var(--state-dialog-max-width)}}.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1{--state-dialog-max-width:unset}.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1 .registrationFormDialog_stateDialogBody__4970e,.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1 .registrationFormDialog_stateDialogHeader__EqU6n{clip:rect(0 0 0 0);clip-path:inset(50%);height:1px;overflow:hidden;position:absolute;white-space:nowrap;width:1px}.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS .registrationFormDialog_stateIcon__JTqqq{color:var(--color-teal-500)}.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_error__R3QVS .registrationFormDialog_stateIcon__JTqqq{color:var(--color-red-500)}.registrationFormDialog_stateDialogErrorLink__CdL3G{color:var(--color-red-700)}.registrationFormDialog_bookingFrame__c8wVI{border:none;max-width:100%}.registrationFormDialog_eyebrow__SpXXx,.registrationFormDialog_stateDialogFooter__kPpk4{display:flex;flex-direction:column;align-items:flex-start;gap:8px}.registrationFormDialog_eyebrow__SpXXx{font:var(--typography-sans-400-semibold-font-weight) var(--typography-sans-400-semibold-font-size)/var(--typography-sans-400-semibold-line-height) var(--typography-sans-400-semibold-font-family);font-variation-settings:"wght" var(--typography-sans-400-semibold-font-weight-variable);letter-spacing:var(--typography-sans-400-semibold-letter-spacing);margin-top:22px}.registrationFormDialog_backButton__PjKuM{padding:0}.registrationFormDialog_dialog__XG4cw{margin:auto;border:1px solid var(--color-gray-200);background:var(--color-page-200);--dialog-body-horizontal-padding:22px}.registrationFormDialog_dialog__XG4cw::backdrop{background-color:var(--dialog-background-color);-webkit-backdrop-filter:var(--dialog-backdrop-filter);backdrop-filter:var(--dialog-backdrop-filter)}.registrationFormDialog_dialogHeader__AD0MQ{gap:16px;padding:0 24px;align-items:flex-start}.registrationFormDialog_dialogHeader__AD0MQ [class^=dialog_closeButton]{transform:translateY(11px)}.registrationFormDialog_dialogBody__eDtMp{display:flex;flex-direction:column;background:var(--color-page);padding:24px;width:100%;max-width:460px}@media(min-width:1080px){.registrationFormDialog_dialogBody__eDtMp{padding:24px 24px 0}}.registrationStatusContent_eyebrow__oTYLl{font:var(--typography-sans-400-semibold-font-weight) var(--typography-sans-400-semibold-font-size)/var(--typography-sans-400-semibold-line-height) var(--typography-sans-400-semibold-font-family);font-variation-settings:"wght" var(--typography-sans-400-semibold-font-weight-variable);letter-spacing:var(--typography-sans-400-semibold-letter-spacing);display:flex;flex-direction:column;align-items:flex-start;margin-top:22px;gap:8px}.MakeWithNotionPageBase_page__O1uaJ{contain:paint;width:100%;min-height:100%;height:auto;margin:auto}.MakeWithNotionPageBase_makeWithNotion__zM1oB{--dialog-background-color:#ffffff80;--dialog-backdrop-filter:blur(1px)}.MakeWithNotionPageBase_makeWithNotion__zM1oB [class^=buttonV2]{border-radius:2px!important;box-shadow:none!important;font-weight:448!important}.MakeWithNotionPageBase_banner___XXOP{color:#fff;background-color:var(--color-black-900)}.MakeWithNotionPageBase_bannerBadge__MaSHK{padding-top:2px;white-space:nowrap}.MakeWithNotionPageBase_bannerCta__4o8_8,.MakeWithNotionPageBase_bannerCta__4o8_8:hover{color:#fff}.mwn_root__thW8T{--typography-sans-400-semibold-font-size:27px;--typography-sans-500-semibold-font-size:27px;--mobile-hidden-display:none;--hero-padding:68px 0 15px}@media(min-width:1080px){.mwn_root__thW8T{--mobile-hidden-display:flex;--hero-padding:68px 0 50px;--agenda-padding:160px 0 90px}}@media(min-width:1280px){.mwn_root__thW8T{--hero-padding:80px 0 50px}}.mwn_hero__kmJsV{padding:var(--hero-padding)}.mwn_heroLeft__vCnBw{display:flex;flex-direction:column;gap:12px;grid-column:span 12;justify-content:center}@media screen and (min-width:942px){.mwn_heroLeft__vCnBw{grid-column:2/span 10}}@media(min-width:1080px){.mwn_heroLeft__vCnBw{grid-column:2/span 5}}.mwn_heroRight__FJ0QA{display:var(--mobile-hidden-display);grid-column:8/span 5}@media(min-width:1080px){.mwn_heading__pHRex{font:var(--typography-sans-600-semibold-font-weight) var(--typography-sans-600-semibold-font-size)/var(--typography-sans-600-semibold-line-height) var(--typography-sans-600-semibold-font-family);font-variation-settings:"wght" var(--typography-sans-600-semibold-font-weight-variable);letter-spacing:var(--typography-sans-600-semibold-letter-spacing)}}@media(min-width:1080px)and (min-width:600px){.mwn_heading__pHRex{font:var(--typography-sans-700-semibold-font-weight) var(--typography-sans-700-semibold-font-size)/var(--typography-sans-700-semibold-line-height) var(--typography-sans-700-semibold-font-family);font-variation-settings:"wght" var(--typography-sans-700-semibold-font-weight-variable);letter-spacing:var(--typography-sans-700-semibold-letter-spacing)}}.mwn_subHeading__JyPWX{display:var(--mobile-hidden-display)}.mwn_link__2zGpr span{color:var(--mwn-blue);font-weight:448;display:flex;gap:6px}.mwn_sectionHeader__KgJK_{--section-header-gap:12px;display:flex;flex-direction:column;gap:var(--section-header-gap);justify-content:center}@media(min-width:1080px){.mwn_sectionHeader__KgJK_{--section-header-gap:18px}}@media(min-width:840px){.mwn_eyebrow__QoBPb{--typography-sans-200-regular-font-size:18px}}.mwn_sectionHeading__j9Yjh{--typography-sans-400-semibold-font-size:23px;--typography-sans-400-semibold-line-height:33px}@media(min-width:1080px){.mwn_sectionHeading__j9Yjh{--typography-sans-400-semibold-font-size:inherit}}
+.MakeWithNotionEventCountdown_countdown__u1Rza{
+    font-size:clamp(100px,10vmax,160px);
+    font-weight:400;
+    display:grid;
+    grid-template-columns:repeat(4,max-content);
+    justify-items:start;
+    align-content:start;
+    align-items:start;
+    width:auto;
+    padding-bottom:128px;
+    height:auto;
+    margin:0 auto 160px;
+    gap:.25ch
+}
+@media(min-width:1080px){
+    .MakeWithNotionEventCountdown_countdown__u1Rza{
+        gap:.375ch;
+        grid-template-columns:repeat(8,max-content)
+    }
+}
+.MakeWithNotionEventCountdown_delimiter__yqfs1{
+    position:relative;
+    min-height:85%;
+    flex-shrink:0;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center
+}
+.MakeWithNotionEventCountdown_shape__VCQ_U{
+    position:relative;
+    aspect-ratio:1/1;
+    width:1ch;
+    -webkit-mask-image:var(--delimiter-shape);
+    mask-image:var(--delimiter-shape);
+    -webkit-mask-size:contain;
+    mask-size:contain;
+    -webkit-mask-repeat:no-repeat;
+    mask-repeat:no-repeat;
+    -webkit-mask-position:center center;
+    mask-position:center center;
+    transform:rotate(var(--delimiter-shape-rotation)) translateZ(0);
+    backface-visibility:visible;
+    transform-origin:center center;
+    will-change:transform;
+    z-index:1
+}
+:nth-child(1 of .MakeWithNotionEventCountdown_delimiter__yqfs1){
+    margin-inline:-.0625ch;
+    order:3
+}
+:nth-child(1 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{
+    aspect-ratio:96/83;
+    transform-origin:50% 66.666%;
+    margin-top:-25%
+}
+:nth-child(2 of .MakeWithNotionEventCountdown_delimiter__yqfs1){
+    order:1
+}
+:nth-child(2 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{
+    width:.75ch
+}
+:nth-child(3 of .MakeWithNotionEventCountdown_delimiter__yqfs1){
+    order:5;
+    margin-inline:-.125ch
+}
+:nth-child(3 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{
+    aspect-ratio:96/84
+}
+:nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1){
+    order:7;
+    margin-inline:-.125ch
+}
+:nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1) .MakeWithNotionEventCountdown_shape__VCQ_U{
+    aspect-ratio:96/56
+}
+@media(min-width:1080px){
+    :nth-child(4 of .MakeWithNotionEventCountdown_delimiter__yqfs1){
+        display:none
+    }
+}
+.MakeWithNotionEventCountdown_flap__ImlGU{
+    display:flex;
+    flex-direction:column;
+    height:100%;
+    align-items:flex-start;
+    justify-content:flex-start;
+    gap:0
+}
+:nth-child(1 of .MakeWithNotionEventCountdown_flap__ImlGU){
+    order:2;
+    margin-right:.5ch
+}
+@media(min-width:1080px){
+    :nth-child(1 of .MakeWithNotionEventCountdown_flap__ImlGU){
+        margin-right:unset
+    }
+}
+:nth-child(2 of .MakeWithNotionEventCountdown_flap__ImlGU){
+    order:4
+}
+:nth-child(3 of .MakeWithNotionEventCountdown_flap__ImlGU){
+    order:6
+}
+:nth-child(4 of .MakeWithNotionEventCountdown_flap__ImlGU){
+    order:8
+}
+@media(min-width:1080px){
+    .MakeWithNotionEventCountdown_countdown__u1Rza>.MakeWithNotionEventCountdown_delimiter__yqfs1,.MakeWithNotionEventCountdown_countdown__u1Rza>.MakeWithNotionEventCountdown_flap__ImlGU{
+        order:unset
+    }
+}
+.MakeWithNotionEventCountdown_numeral__oCM_R{
+    line-height:1em;
+    letter-spacing:-.08em;
+    text-indent:-.1ch
+}
+.MakeWithNotionEventCountdown_descriptor__qCZWD{
+    font:var(--typography-sans-300-regular-font-weight) var(--typography-sans-300-regular-font-size)/var(--typography-sans-300-regular-line-height) var(--typography-sans-300-regular-font-family);
+    font-variation-settings:"wght" var(--typography-sans-300-regular-font-weight-variable);
+    letter-spacing:var(--typography-sans-300-regular-letter-spacing)
+}
+.MakeWithNotionAnimatedText_visuallyHidden__UxnEB{
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    white-space:nowrap;
+    width:1px
+}
+.MakeWithNotionAnimatedText_text__IxRVW{
+    font-family:var(--font-family-sans)
+}
+.MakeWithNotionAnimatedText_mwnLetter__v6HOn{
+    display:inline-block;
+    position:relative
+}
+.MakeWithNotionAnimatedText_withBoundingBox__JeJC_{
+    outline:1px solid #00000014;
+    outline-style:dashed
+}
+.MakeWithNotionAnimatedText_absolute__awt_z{
+    position:absolute;
+    height:100%
+}
+.MakeWithNotionAnimatedText_debug__Fzp63{
+    fill:red;
+    mix-blend-mode:hard-light
+}
+.MakeWithNotionAnimatedText_red__ga1Lf{
+    fill:#f64932
+}
+.MakeWithNotionAnimatedText_blue__pNdT0{
+    fill:var(--mwn-blue)
+}
+.MakeWithNotionAnimatedText_yellow__EEdvk{
+    fill:#ffb110
+}
+.MakeWithNotionAnimatedText_black__eeAj7{
+    fill:#000
+}
+.MakeWithNotionFooter_visuallyHidden__D1rl6{
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    white-space:nowrap;
+    width:1px
+}
+.MakeWithNotionFooter_container__j6X3z{
+    display:flex;
+    flex-flow:column wrap;
+    justify-content:space-between;
+    width:100%;
+    line-height:1em;
+    margin:42px auto 0;
+    gap:16px;
+    flex-direction:row;
+    align-items:flex-end;
+    padding:32px 0
+}
+.MakeWithNotionFooter_container__j6X3z *{
+    margin:0;
+    padding:0;
+    line-height:1em
+}
+.MakeWithNotionFooter_container__j6X3z img{
+    margin-left:auto
+}
+.MakeWithNotionFooter_legalInfo__Yq4Dc{
+    display:flex;
+    flex-flow:column wrap;
+    justify-content:flex-start;
+    line-height:1em;
+    column-gap:16px;
+    row-gap:16px;
+    list-style-type:none;
+    padding:0;
+    margin:0
+}
+@media(min-width:1280px){
+    .MakeWithNotionFooter_legalInfo__Yq4Dc{
+        align-items:flex-end;
+        flex-direction:row
+    }
+}
+.MakeWithNotionFooter_legalInfo__Yq4Dc *{
+    margin:0;
+    padding:0;
+    line-height:1em;
+    color:inherit
+}
+.MakeWithNotionFooter_legalInfo__Yq4Dc>li *{
+    font-size:15px
+}
+.MakeWithNotionFooter_logo__ssOmt{
+    display:flex;
+    height:36px
+}
+.MakeWithNotionFooter_footerImage__R9t_T{
+    width:200px;
+    height:auto
+}
+@media(min-width:1080px){
+    .MakeWithNotionFooter_footerImage__R9t_T{
+        width:300px
+    }
+}
+.MakeWithNotionLayout_container__MloTq{
+    --mwn-blue:#097fe8;
+    --color-text-secondary:#787774;
+    --typography-sans-300-semibold-font-weight-variable:400;
+    --typography-sans-400-semibold-font-weight-variable:400;
+    --typography-sans-500-semibold-font-weight-variable:400;
+    --typography-sans-600-semibold-font-weight-variable:400;
+    --typography-sans-700-semibold-font-weight-variable:400;
+    --typography-sans-800-semibold-font-weight-variable:400;
+    --typography-sans-900-semibold-font-weight-variable:400;
+    width:100%;
+    max-width:1920px;
+    margin:auto;
+    padding:0 24px
+}
+.MakeWithNotionHomeAgenda_agenda__U9VQ3{
+    --agenda-padding:10px 0 54px;
+    --agenda-row-gap:15px;
+    --agenda-header-column:span 12;
+    --agenda-header-margin-bottom:40px;
+    --agenda-shape-column:span 12;
+    --agenda-image-margin:0 -60px 0 auto;
+    --agenda-image-rotation:rotate(269deg);
+    --agenda-sections-gap:36px;
+    --agenda-sections-flex-direction:column;
+    --agenda-sections-grid-column:span 12;
+    padding:var(--agenda-padding);
+    row-gap:var(--agenda-row-gap)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAgenda_agenda__U9VQ3{
+        --agenda-padding:105px 0 54px;
+        --agenda-row-gap:54px;
+        --agenda-header-column:2/span 6;
+        --agenda-header-margin-bottom:0;
+        --agenda-shape-column:8/span 6;
+        --agenda-sections-grid-column:2/span 10
+    }
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAgenda_agenda__U9VQ3{
+        --agenda-padding:130px 0 90px;
+        --agenda-header-column:7/span 5;
+        --agenda-shape-column:span 6;
+        --agenda-image-margin:0 auto;
+        --agenda-image-rotation:rotate(0);
+        --agenda-image-width:90%;
+        --agenda-sections-flex-direction:row;
+        --agenda-sections-gap:30px
+    }
+}
+.MakeWithNotionHomeAgenda_agendaShape__EOIjY{
+    grid-column:var(--agenda-shape-column)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAgenda_agendaShape__EOIjY{
+        align-content:center
+    }
+}
+.MakeWithNotionHomeAgenda_agendaShape__EOIjY img{
+    display:block;
+    margin:var(--agenda-image-margin);
+    transform:var(--agenda-image-rotation)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAgenda_agendaShape__EOIjY img{
+        display:block;
+        width:100%;
+        height:auto;
+        object-fit:cover;
+        max-width:600px;
+        width:var(--agenda-image-width)
+    }
+}
+.MakeWithNotionHomeAgenda_agendaHeader__87JUy{
+    grid-column:var(--agenda-header-column);
+    margin-bottom:var(--agenda-header-margin-bottom)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAgenda_agendaHeader__87JUy{
+        order:-1
+    }
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAgenda_agendaHeader__87JUy{
+        order:revert
+    }
+}
+.MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry{
+    margin-top:4px
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry{
+        --typography-sans-200-regular-font-size:18px
+    }
+}
+.MakeWithNotionHomeAgenda_agendaHeader__87JUy .MakeWithNotionHomeAgenda_link__ix9Ry span{
+    color:var(--mwn-blue);
+    font-weight:448;
+    display:flex;
+    gap:6px
+}
+.MakeWithNotionHomeAgenda_agendaSections__GLVJD{
+    --typography-sans-200-regular-font-size:18px;
+    --typography-sans-400-semibold-font-size:22px;
+    --typography-sans-400-semibold-line-height:26px;
+    display:flex;
+    flex-direction:var(--agenda-sections-flex-direction);
+    gap:var(--agenda-sections-gap);
+    grid-column:var(--agenda-sections-grid-column)
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAgenda_agendaSections__GLVJD{
+        --typography-sans-200-regular-font-size:inherit;
+        --typography-sans-400-semibold-font-size:24px;
+        --typography-sans-400-semibold-line-height:inherit
+    }
+}
+.MakeWithNotionHomeAgenda_agendaSection__r438l{
+    display:flex;
+    flex-direction:column;
+    gap:8px
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAgenda_agendaSection__r438l{
+        width:33%
+    }
+}
+.MakeWithNotionHomeAgenda_agendaSectionContent__4nzhJ{
+    color:var(--color-text-secondary)
+}
+.MakeWithNotionHomeAttend_attend__7VIVz{
+    --attend-padding:0 0 40px;
+    --attend-row-gap:34px;
+    --attend-shape-column:span 12;
+    --attend-image-margin:0 -24px 0 auto;
+    --attend-header-gap:8px;
+    --attend-header-column:span 12;
+    --attend-sections-gap:36px;
+    --attend-sections-grid-column-end:span 12;
+    --g-grid-gutter:var(--grid-gutter,24px);
+    display:grid;
+    grid-auto-rows:min-content;
+    grid-template-columns:repeat(var(--grid-columns),minmax(1px,1fr));
+    gap:var(--grid-gutter);
+    width:100%;
+    align-items:flex-start;
+    container-type:inline-size;
+    padding:var(--attend-padding);
+    row-gap:var(--attend-row-gap)
+}
+.MakeWithNotionHomeAttend_attend__7VIVz>*{
+    grid-column:auto/span 6
+}
+@container (max-width: 800px){
+    .MakeWithNotionHomeAttend_attend__7VIVz>*{
+        grid-column:auto/span 12;
+        --g-grid-gutter:var(--grid-sm-gutter)
+    }
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAttend_attend__7VIVz{
+        --attend-padding:90px 0 0px;
+        --attend-shape-column:7/span 6;
+        --attend-header-gap:18px;
+        --attend-header-column:2/span 5;
+        --attend-sections-gap:30px;
+        --attend-sections-grid-column-end:span 5
+    }
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAttend_attend__7VIVz{
+        --attend-padding:90px 0 180px;
+        --attend-row-gap:54px;
+        --attend-image-margin:0 auto;
+        --attend-sections-grid-column-end:span 4
+    }
+}
+.MakeWithNotionHomeAttend_attend__7VIVz .MakeWithNotionHomeAttend_link__SQu41 span{
+    color:var(--mwn-blue);
+    font-weight:448;
+    display:flex;
+    gap:6px
+}
+.MakeWithNotionHomeAttend_attendShape__dnQFT{
+    order:-1;
+    grid-column:var(--attend-shape-column)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAttend_attendShape__dnQFT{
+        order:revert;
+        align-content:center;
+        height:100%
+    }
+}
+.MakeWithNotionHomeAttend_attendShape__dnQFT img{
+    display:block;
+    transform:var(--attend-image-rotation);
+    margin:var(--attend-image-margin)
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAttend_attendShape__dnQFT img{
+        display:block;
+        width:100%;
+        height:auto;
+        object-fit:cover;
+        width:80%;
+        margin-top:-30px
+    }
+}
+.MakeWithNotionHomeAttend_attendHeader___bbpk{
+    gap:var(--attend-header-gap);
+    grid-column:var(--attend-header-column)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAttend_attendHeader___bbpk{
+        display:flex;
+        height:100%;
+        justify-content:center;
+        margin-bottom:20px
+    }
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeAttend_attendHeader___bbpk{
+        margin-bottom:0
+    }
+}
+.MakeWithNotionHomeAttend_attendSections__dwFPd{
+    --typography-sans-400-semibold-font-size:23px;
+    --typography-sans-400-semibold-line-height:33px;
+    display:contents
+}
+.MakeWithNotionHomeAttend_attendSection__qDqFJ{
+    display:flex;
+    flex-direction:column;
+    gap:4px;
+    grid-column-end:var(--attend-sections-grid-column-end)
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeAttend_attendSection__qDqFJ{
+        grid-column-start:2
+    }
+    .MakeWithNotionHomeAttend_attendSection__qDqFJ:nth-child(2){
+        grid-column-start:7
+    }
+}
+.MakeWithNotionHomeAttend_attendFooter__VQjO8{
+    grid-column:span 12
+}
+.MakeWithNotionHomeAttend_attendFooter__VQjO8 img{
+    display:block;
+    width:100%;
+    height:auto;
+    object-fit:cover;
+    margin:0 -24px 0 auto;
+    width:247px
+}
+.MakeWithNotionRegisterCtas_primary__3m99w{
+    display:flex
+}
+.MakeWithNotionRegisterCtas_link__UH2ua{
+    color:var(--link-color)
+}
+.MakeWithNotionRegisterCtas_link__UH2ua:hover{
+    color:var(--text-color-dark)
+}
+.MakeWithNotionHomeSponsors_sponsors__G57qT{
+    --sponsor-section-margin-top:150px;
+    --sponsor-section-margin-bottom:136px;
+    --sponsor-section-gap:55px;
+    --sponsor-section-flex-direction:column;
+    --sponsors-heading-max-width:432px;
+    --sponsor-logos-min-height:81px;
+    --sponsors-logos-max-width:660px;
+    --sponsor-logos-gap:36px;
+    --figma-logo-height:45.6px;
+    --aws-logo-height:40.2px;
+    --default-logo-height:46.3px;
+    --sponsor-logo-width:33%;
+    display:flex;
+    width:100%;
+    max-width:calc(var(--sponsors-heading-max-width) + var(--sponsor-section-gap) + var(--sponsors-logos-max-width));
+    flex-direction:var(--sponsor-section-flex-direction);
+    gap:var(--sponsor-section-gap);
+    margin:var(--sponsor-section-margin-top) auto var(--sponsor-section-margin-bottom);
+    text-align:center
+}
+@media(min-width:600px){
+    .MakeWithNotionHomeSponsors_sponsors__G57qT{
+        --sponsor-section-margin-top:182px;
+        --figma-logo-height:68.4px;
+        --aws-logo-height:60.3px;
+        --default-logo-height:69.5px
+    }
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeSponsors_sponsors__G57qT{
+        --sponsor-section-margin-bottom:220px;
+        --sponsor-section-gap:38px;
+        --sponsor-logos-gap:62px;
+        --figma-logo-height:78px;
+        --aws-logo-height:69px;
+        --default-logo-height:79px;
+        --sponsor-logos-min-height:139px;
+        --sponsor-logo-width:20%;
+        justify-content:space-between;
+        align-items:center
+    }
+}
+.MakeWithNotionHomeSponsors_sponsorLogos__8mdEJ{
+    display:flex;
+    width:100%;
+    flex-wrap:wrap;
+    justify-content:center;
+    place-items:center;
+    row-gap:30px;
+    min-height:var(--sponsor-logos-min-height)
+}
+.MakeWithNotionHomeSponsors_sponsorLogos__8mdEJ a{
+    width:var(--sponsor-logo-width)
+}
+.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS{
+    width:auto
+}
+.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_figma__6cEEV{
+    height:var(--figma-logo-height)
+}
+.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_aws__8_TtX{
+    height:var(--aws-logo-height)
+}
+.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_notionState__3VfbO,.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_optemization__Ei3es,.MakeWithNotionHomeSponsors_sponsorLogo__Hs4PS.MakeWithNotionHomeSponsors_slack__WVSG4{
+    height:var(--default-logo-height)
+}
+.MakeWithNotionHomeFooter_footer__OsCn5{
+    --padding:32px 0;
+    background-size:contain;
+    background-position:100%;
+    background-repeat:no-repeat;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content:center;
+    padding:var(--padding);
+    width:100%;
+    max-width:1920px
+}
+.MakeWithNotionHomeFooter_details__TiNql{
+    --first-detail-grid-column:span 12;
+    row-gap:64px
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeFooter_details__TiNql{
+        --first-detail-grid-column:2/span 5
+    }
+}
+.MakeWithNotionHomeFooter_firstDetail__kUFBr{
+    grid-column:var(--first-detail-grid-column);
+    margin-bottom:24px
+}
+.MakeWithNotionHomeFooter_postCard__x1GnR{
+    width:100%;
+    height:100%;
+    flex:1 0 auto;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content:center;
+    background-color:var(--color-base-200);
+    aspect-ratio:1/1;
+    filter:grayscale(1)
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeFooter_postCard__x1GnR{
+        aspect-ratio:700/600
+    }
+}
+.MakeWithNotionHomeFooter_postCardImageContainer__XSp9L{
+    display:flex;
+    height:100%;
+    flex-direction:column;
+    justify-content:center;
+    align-content:center;
+    align-items:flex-end
+}
+.MakeWithNotionHomeFooter_postCardImage__xeEcs{
+    display:block;
+    width:100%;
+    max-width:585px;
+    height:auto;
+    position:relative;
+    z-index:1;
+    transform:rotate(-1deg) translateZ(1px);
+    box-shadow:0 0 2px #0000000a
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeFooter_postCardImage__xeEcs{
+        transform:rotate(-3deg);
+        margin-right:-64px
+    }
+}
+.MakeWithNotionHomeFooter_logo__RaC9M,.MakeWithNotionHomeFooter_postCardImage__xeEcs img{
+    width:100%;
+    height:auto;
+    display:block
+}
+.MakeWithNotionHomeFooter_ctas__v9clg{
+    margin-top:24px;
+    display:flex;
+    flex-flow:row wrap;
+    align-items:center;
+    column-gap:16px
+}
+.MakeWithNotionHomeFooter_faq__nxA6D{
+    --faq-grid-column:span 12;
+    --faq-gap:30px;
+    --faq-margin-bottom:82px;
+    display:flex;
+    flex-direction:column;
+    grid-column:var(--faq-grid-column);
+    gap:var(--faq-gap);
+    margin:0 auto var(--faq-margin-bottom);
+    max-width:1024px;
+    width:100%
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeFooter_faq__nxA6D{
+        --faq-gap:44px;
+        --faq-margin-bottom:90px
+    }
+}
+@media(min-width:1080px){
+    .MakeWithNotionHomeFooter_faq__nxA6D{
+        --faq-grid-column:2/12;
+        --faq-margin-bottom:141px
+    }
+}
+.MakeWithNotionHomeFooter_faqHeader__OO2GU{
+    --faq-header-flex-direction:column;
+    display:flex;
+    flex-direction:var(--faq-header-flex-direction);
+    align-items:baseline;
+    justify-content:space-between;
+    gap:16px
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeFooter_faqHeader__OO2GU{
+        --faq-header-flex-direction:row
+    }
+}
+.MakeWithNotionHomeFooter_faqCta__Px_D_ span{
+    color:var(--mwn-blue);
+    font-weight:448;
+    display:flex;
+    gap:6px;
+    align-items:center
+}
+.MakeWithNotionHomeFooter_faqCta__Px_D_ span svg{
+    margin-top:2px
+}
+.MakeWithNotionHomeSpeakers_root__M7h3p{
+    --speakers-column-count:2;
+    --speakers-row-gap:24px;
+    --speakers-column-gap:20px;
+    --speaker-caption-margin-top:10px;
+    --color-text-secondary:#787774;
+    display:grid;
+    grid-template-columns:repeat(var(--speakers-column-count),minmax(0,1fr));
+    justify-content:space-between;
+    list-style:none;
+    gap:var(--speakers-row-gap) var(--speakers-column-gap);
+    margin:0;
+    padding:0
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeSpeakers_root__M7h3p{
+        --speakers-row-gap:45px;
+        --speaker-caption-margin-top:18px
+    }
+}
+@media(min-width:1200px){
+    .MakeWithNotionHomeSpeakers_root__M7h3p{
+        --speakers-column-count:4
+    }
+}
+@media(min-width:1440px){
+    .MakeWithNotionHomeSpeakers_root__M7h3p{
+        --speaker-caption-margin-top:28px
+    }
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+1){
+    --speaker-image-rotation:-1.85deg;
+    --speaker-scale-adjustment:0.97
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+2){
+    --speaker-image-rotation:1.88deg;
+    --speaker-scale-adjustment:0.969
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+3){
+    --speaker-image-rotation:-0.42deg;
+    --speaker-scale-adjustment:0.993
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+4){
+    --speaker-image-rotation:2.6deg;
+    --speaker-scale-adjustment:0.958
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+5){
+    --speaker-image-rotation:2.6deg;
+    --speaker-scale-adjustment:0.97
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+6){
+    --speaker-image-rotation:-1.85deg;
+    --speaker-scale-adjustment:0.969
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n+7){
+    --speaker-image-rotation:1.88deg;
+    --speaker-scale-adjustment:0.969
+}
+.MakeWithNotionHomeSpeakers_speaker__YcYfL:nth-child(8n){
+    --speaker-image-rotation:-0.42deg;
+    --speaker-scale-adjustment:0.958
+}
+.MakeWithNotionHomeSpeakers_figure__uqAQq{
+    margin:0;
+    padding:0
+}
+.MakeWithNotionHomeSpeakers_image__zTeJi{
+    display:block;
+    width:100%;
+    height:auto;
+    will-change:transform;
+    transform:rotate(var(--speaker-image-rotation,0deg)) scale(var(--speaker-scale-adjustment,1));
+    box-shadow:0 0 2px #0000000a
+}
+.MakeWithNotionHomeSpeakers_caption__QVexX{
+    margin-top:var(--speaker-caption-margin-top)
+}
+.MakeWithNotionHomeSpeakers_name__sqZpB{
+    font-size:16px;
+    line-height:24px;
+    font-weight:500
+}
+@media(min-width:840px){
+    .MakeWithNotionHomeSpeakers_name__sqZpB{
+        font-size:23px;
+        line-height:33px;
+        font-weight:420
+    }
+}
+@media(min-width:1440px){
+    .MakeWithNotionHomeSpeakers_name__sqZpB{
+        font:var(--typography-sans-400-regular-font-weight) var(--typography-sans-400-regular-font-size)/var(--typography-sans-400-regular-line-height) var(--typography-sans-400-regular-font-family);
+        font-variation-settings:"wght" var(--typography-sans-400-regular-font-weight-variable);
+        letter-spacing:var(--typography-sans-400-regular-letter-spacing)
+    }
+}
+.MakeWithNotionHomeSpeakers_title__7RXNe{
+    font:var(--typography-sans-150-regular-font-weight) var(--typography-sans-150-regular-font-size)/var(--typography-sans-150-regular-line-height) var(--typography-sans-150-regular-font-family);
+    font-variation-settings:"wght" var(--typography-sans-150-regular-font-weight-variable);
+    letter-spacing:var(--typography-sans-150-regular-letter-spacing);
+    color:var(--color-text-secondary)
+}
+@media(min-width:1440px){
+    .MakeWithNotionHomeSpeakers_title__7RXNe{
+        font:var(--typography-sans-200-regular-font-weight) var(--typography-sans-200-regular-font-size)/var(--typography-sans-200-regular-line-height) var(--typography-sans-200-regular-font-family);
+        font-variation-settings:"wght" var(--typography-sans-200-regular-font-weight-variable);
+        letter-spacing:var(--typography-sans-200-regular-letter-spacing)
+    }
+}
+.MakeWithNotionMobileNavigation_mobileNav__1T3El{
+    min-height:100%;
+    padding:30px;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    gap:130px
+}
+.MakeWithNotionMobileNavigation_mobileNavLinks__MWckp{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:27px;
+    font:var(--typography-sans-300-regular-font-weight) var(--typography-sans-300-regular-font-size)/var(--typography-sans-300-regular-line-height) var(--typography-sans-300-regular-font-family);
+    font-variation-settings:"wght" var(--typography-sans-300-regular-font-weight-variable);
+    letter-spacing:var(--typography-sans-300-regular-letter-spacing)
+}
+@media(min-width:600px){
+    .MakeWithNotionMobileNavigation_mobileNavLinks__MWckp{
+        font:var(--typography-sans-400-regular-font-weight) var(--typography-sans-400-regular-font-size)/var(--typography-sans-400-regular-line-height) var(--typography-sans-400-regular-font-family);
+        font-variation-settings:"wght" var(--typography-sans-400-regular-font-weight-variable);
+        letter-spacing:var(--typography-sans-400-regular-letter-spacing)
+    }
+}
+.MakeWithNotionMobileNavigation_mobileCtas__YmRKg{
+    display:flex;
+    flex-direction:column;
+    gap:24px
+}
+.MakeWithNotionNavigation_navigation__zh8EL{
+    --nav-display:none;
+    --padding:24px;
+    display:contents
+}
+.MakeWithNotionNavigation_mobileNavOpen__fyFx6{
+    position:fixed!important;
+    inset:0;
+    max-height:100vh;
+    max-height:100dvh;
+    z-index:var(--z-index-header)
+}
+.MakeWithNotionNavigation_mobileNavOpen__fyFx6~*{
+    display:none!important
+}
+.MakeWithNotionNavigation_container__aKt4e{
+    --display-desktop-elements:none;
+    --display-mobile-elements:contents;
+    --max-width:1860px;
+    --links-display:none;
+    --mwn-logo-width:171px;
+    display:contents
+}
+@media(min-width:1280px){
+    .MakeWithNotionNavigation_container__aKt4e{
+        --mwn-logo-width:300px;
+        --display-desktop-elements:flex;
+        --display-mobile-elements:none;
+        --links-display:flex
+    }
+}
+.MakeWithNotionNavigation_stickyNav__0M_Hm{
+    display:flex;
+    position:sticky;
+    top:0;
+    flex-direction:column;
+    align-items:flex-start;
+    justify-content:space-between;
+    width:100%;
+    height:auto;
+    box-sizing:border-box;
+    padding:var(--padding);
+    background-color:var(--color-page);
+    z-index:999;
+    border-bottom:1px solid #0000
+}
+.MakeWithNotionNavigation_stickyNav__0M_Hm:before{
+    position:absolute;
+    width:100dvw;
+    background:none;
+    content:"";
+    transform:translateX(-50%);
+    left:50%;
+    z-index:0;
+    top:0;
+    bottom:0;
+    transition:box-shadow .16s ease-in-out;
+    box-shadow:0 3px 9px 0 #0000,0 .7px 1.462px 0 #0000
+}
+.MakeWithNotionNavigation_isScrolled__XARxc:before{
+    box-shadow:0 3px 9px 0 #00000008,0 .7px 1.462px 0 #00000003
+}
+.MakeWithNotionNavigation_logo__oo2PW{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    width:var(--mwn-logo-width)
+}
+.MakeWithNotionNavigation_logo__oo2PW img{
+    width:100%;
+    display:block
+}
+.MakeWithNotionNavigation_visuallyHidden__qsTts{
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    white-space:nowrap;
+    width:1px
+}
+.MakeWithNotionNavigation_content__aYfTj{
+    position:relative;
+    width:100%;
+    max-width:var(--max-width);
+    margin:0 auto;
+    justify-content:space-between
+}
+.MakeWithNotionNavigation_content__aYfTj,.MakeWithNotionNavigation_leftNav__avwo8{
+    display:flex;
+    flex-direction:row;
+    align-items:center
+}
+.MakeWithNotionNavigation_menu__eI9OR{
+    display:var(--links-display);
+    flex-direction:row;
+    align-items:flex-start;
+    gap:28px;
+    height:100%;
+    margin:0 60px;
+    color:var(--text-color-medium);
+    font-size:15px;
+    font-weight:500
+}
+.MakeWithNotionNavigation_menu__eI9OR .MakeWithNotionNavigation_active__xIT9n{
+    color:var(--text-color-dark)
+}
+.MakeWithNotionNavigation_rightNav__WE_6y{
+    display:flex;
+    flex-direction:row
+}
+.MakeWithNotionNavigation_ctas__yQd7t{
+    flex-direction:row;
+    align-items:flex-start;
+    align-items:center;
+    margin-left:auto;
+    gap:4px;
+    display:var(--display-desktop-elements)
+}
+.MakeWithNotionNavigation_ctas__yQd7t button{
+    --typography-sans-200-regular-font-size:15px
+}
+.MakeWithNotionNavigation_ctas__yQd7t p{
+    margin-left:var(--register-cta-margin-left)
+}
+.MakeWithNotionNavigation_mobileNavTrigger__ewyzR{
+    display:var(--display-mobile-elements)
+}
+.MakeWithNotionNavigation_notionLogo__9dQ6q{
+    margin-left:20px;
+    display:flex
+}
+.MakeWithNotionNavigation_subNavCtas__IzPh2{
+    display:flex;
+    flex-flow:row wrap;
+    align-items:flex-start;
+    row-gap:12px;
+    column-gap:16px;
+    max-width:var(--ctas-max-width);
+    margin-top:56px
+}
+@media(min-width:1280px){
+    .MakeWithNotionNavigation_subNavCtas__IzPh2{
+        display:none
+    }
+}
+.MakeWithNotionNavigation_subNav__03c4G{
+    margin-left:24px;
+    max-width:1860px
+}
+@media screen and (min-width:1920px){
+    .MakeWithNotionNavigation_subNav__03c4G{
+        margin:0 auto
+    }
+}
+.registrationFormBody_passwordField__DOrxs,.registrationFormDialog_visuallyHidden__cLR8X{
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    white-space:nowrap;
+    width:1px
+}
+.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_stateDialog___CFPV{
+    --state-dialog-max-width:356px
+}
+@media(min-width:375px){
+    .registrationFormDialog_stateDialog___CFPV.registrationFormDialog_stateDialog___CFPV{
+        max-width:var(--state-dialog-max-width)
+    }
+}
+.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1{
+    --state-dialog-max-width:unset
+}
+.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1 .registrationFormDialog_stateDialogBody__4970e,.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS.registrationFormDialog_withBooking__HwqD1 .registrationFormDialog_stateDialogHeader__EqU6n{
+    clip:rect(0 0 0 0);
+    clip-path:inset(50%);
+    height:1px;
+    overflow:hidden;
+    position:absolute;
+    white-space:nowrap;
+    width:1px
+}
+.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_success__faTUS .registrationFormDialog_stateIcon__JTqqq{
+    color:var(--color-teal-500)
+}
+.registrationFormDialog_stateDialog___CFPV.registrationFormDialog_error__R3QVS .registrationFormDialog_stateIcon__JTqqq{
+    color:var(--color-red-500)
+}
+.registrationFormDialog_stateDialogErrorLink__CdL3G{
+    color:var(--color-red-700)
+}
+.registrationFormDialog_bookingFrame__c8wVI{
+    border:none;
+    max-width:100%
+}
+.registrationFormDialog_eyebrow__SpXXx,.registrationFormDialog_stateDialogFooter__kPpk4{
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    gap:8px
+}
+.registrationFormDialog_eyebrow__SpXXx{
+    font:var(--typography-sans-400-semibold-font-weight) var(--typography-sans-400-semibold-font-size)/var(--typography-sans-400-semibold-line-height) var(--typography-sans-400-semibold-font-family);
+    font-variation-settings:"wght" var(--typography-sans-400-semibold-font-weight-variable);
+    letter-spacing:var(--typography-sans-400-semibold-letter-spacing);
+    margin-top:22px
+}
+.registrationFormDialog_backButton__PjKuM{
+    padding:0
+}
+.registrationFormDialog_dialog__XG4cw{
+    margin:auto;
+    border:1px solid var(--color-gray-200);
+    background:var(--color-page-200);
+    --dialog-body-horizontal-padding:22px
+}
+.registrationFormDialog_dialog__XG4cw::backdrop{
+    background-color:var(--dialog-background-color);
+    -webkit-backdrop-filter:var(--dialog-backdrop-filter);
+    backdrop-filter:var(--dialog-backdrop-filter)
+}
+.registrationFormDialog_dialogHeader__AD0MQ{
+    gap:16px;
+    padding:0 24px;
+    align-items:flex-start
+}
+.registrationFormDialog_dialogHeader__AD0MQ [class^=dialog_closeButton]{
+    transform:translateY(11px)
+}
+.registrationFormDialog_dialogBody__eDtMp{
+    display:flex;
+    flex-direction:column;
+    background:var(--color-page);
+    padding:24px;
+    width:100%;
+    max-width:460px
+}
+@media(min-width:1080px){
+    .registrationFormDialog_dialogBody__eDtMp{
+        padding:24px 24px 0
+    }
+}
+.registrationStatusContent_eyebrow__oTYLl{
+    font:var(--typography-sans-400-semibold-font-weight) var(--typography-sans-400-semibold-font-size)/var(--typography-sans-400-semibold-line-height) var(--typography-sans-400-semibold-font-family);
+    font-variation-settings:"wght" var(--typography-sans-400-semibold-font-weight-variable);
+    letter-spacing:var(--typography-sans-400-semibold-letter-spacing);
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
+    margin-top:22px;
+    gap:8px
+}
+.MakeWithNotionPageBase_page__O1uaJ{
+    contain:paint;
+    width:100%;
+    min-height:100%;
+    height:auto;
+    margin:auto
+}
+.MakeWithNotionPageBase_makeWithNotion__zM1oB{
+    --dialog-background-color:#ffffff80;
+    --dialog-backdrop-filter:blur(1px)
+}
+.MakeWithNotionPageBase_makeWithNotion__zM1oB [class^=buttonV2]{
+    border-radius:2px!important;
+    box-shadow:none!important;
+    font-weight:448!important
+}
+.MakeWithNotionPageBase_banner___XXOP{
+    color:#fff;
+    background-color:var(--color-black-900)
+}
+.MakeWithNotionPageBase_bannerBadge__MaSHK{
+    padding-top:2px;
+    white-space:nowrap
+}
+.MakeWithNotionPageBase_bannerCta__4o8_8,.MakeWithNotionPageBase_bannerCta__4o8_8:hover{
+    color:#fff
+}
+.mwn_root__thW8T{
+    --typography-sans-400-semibold-font-size:27px;
+    --typography-sans-500-semibold-font-size:27px;
+    --mobile-hidden-display:none;
+    --hero-padding:68px 0 15px
+}
+@media(min-width:1080px){
+    .mwn_root__thW8T{
+        --mobile-hidden-display:flex;
+        --hero-padding:68px 0 50px;
+        --agenda-padding:160px 0 90px
+    }
+}
+@media(min-width:1280px){
+    .mwn_root__thW8T{
+        --hero-padding:80px 0 50px
+    }
+}
+.mwn_hero__kmJsV{
+    padding:var(--hero-padding)
+}
+.mwn_heroLeft__vCnBw{
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    grid-column:span 12;
+    justify-content:center
+}
+@media screen and (min-width:942px){
+    .mwn_heroLeft__vCnBw{
+        grid-column:2/span 10
+    }
+}
+@media(min-width:1080px){
+    .mwn_heroLeft__vCnBw{
+        grid-column:2/span 5
+    }
+}
+.mwn_heroRight__FJ0QA{
+    display:var(--mobile-hidden-display);
+    grid-column:8/span 5
+}
+@media(min-width:1080px){
+    .mwn_heading__pHRex{
+        font:var(--typography-sans-600-semibold-font-weight) var(--typography-sans-600-semibold-font-size)/var(--typography-sans-600-semibold-line-height) var(--typography-sans-600-semibold-font-family);
+        font-variation-settings:"wght" var(--typography-sans-600-semibold-font-weight-variable);
+        letter-spacing:var(--typography-sans-600-semibold-letter-spacing)
+    }
+}
+@media(min-width:1080px)and (min-width:600px){
+    .mwn_heading__pHRex{
+        font:var(--typography-sans-700-semibold-font-weight) var(--typography-sans-700-semibold-font-size)/var(--typography-sans-700-semibold-line-height) var(--typography-sans-700-semibold-font-family);
+        font-variation-settings:"wght" var(--typography-sans-700-semibold-font-weight-variable);
+        letter-spacing:var(--typography-sans-700-semibold-letter-spacing)
+    }
+}
+.mwn_subHeading__JyPWX{
+    display:var(--mobile-hidden-display)
+}
+.mwn_link__2zGpr span{
+    color:var(--mwn-blue);
+    font-weight:448;
+    display:flex;
+    gap:6px
+}
+.mwn_sectionHeader__KgJK_{
+    --section-header-gap:12px;
+    display:flex;
+    flex-direction:column;
+    gap:var(--section-header-gap);
+    justify-content:center
+}
+@media(min-width:1080px){
+    .mwn_sectionHeader__KgJK_{
+        --section-header-gap:18px
+    }
+}
+@media(min-width:840px){
+    .mwn_eyebrow__QoBPb{
+        --typography-sans-200-regular-font-size:18px
+    }
+}
+.mwn_sectionHeading__j9Yjh{
+    --typography-sans-400-semibold-font-size:23px;
+    --typography-sans-400-semibold-line-height:33px
+}
+@media(min-width:1080px){
+    .mwn_sectionHeading__j9Yjh{
+        --typography-sans-400-semibold-font-size:inherit
+    }
+}
